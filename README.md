@@ -6,7 +6,7 @@ I'm an enthusiast web developer and content creator building my version of the d
 
 - 👨‍💻 All of my projects are available at [https://nimai-personal-portfolio.netlify.app/](https://nimai-personal-portfolio.netlify.app/)
 
-- 💬 Ask me about **React, node**
+- 💬 Ask me about **React, Next & frontend development**
 
 - 📫 How to reach me **nimai.kraus@gmail.com**
 
