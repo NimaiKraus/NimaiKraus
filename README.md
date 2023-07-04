@@ -7,6 +7,7 @@ I'm an enthusiast web developer and content creator building my version of the d
    alt="Coding"
    width="200"
    src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+   style="margin: 10px 20px"
 />
 
 - 👨‍💻 All of my projects are available at [https://nimai-personal-portfolio.netlify.app/](https://nimai-personal-portfolio.netlify.app/)
