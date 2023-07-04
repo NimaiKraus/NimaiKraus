@@ -1,4 +1,4 @@
-# 🏄‍♂️ Nimai Kraus
+<h1>🏄‍♂️ Nimai Kraus</h1>
 **`Digital Craftsman (Developer/Designer/Creator)`**
 <br />
 I'm an enthusiast web developer and content creator building my version of the digital world one step at a time. All coding projects are built from the scratch, from planning and designing all the way to solving real-life problems with code, all the way to finalizing the content with artistic touches.
