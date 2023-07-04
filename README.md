@@ -5,7 +5,7 @@ I'm an enthusiast web developer and content creator building my version of the d
 <img 
    align="left"
    alt="Coding"
-   width="200"
+   width="100"
    src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
    style="margin: 10px 20px"
 />
