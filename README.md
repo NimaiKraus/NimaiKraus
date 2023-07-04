@@ -15,10 +15,9 @@ I'm an enthusiast web developer and content creator building my version of the d
 <a href="https://linkedin.com/in/nimai kraus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimai kraus" height="30" width="40" /></a>
 <a href="https://instagram.com/pergliamici_mimo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pergliamici_mimo" height="30" width="40" /></a>
 </p>
-   <br />
    
 <h3 align="left">🧰 Languages and Tools:</h3>
-<br /><br />
+<br />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
