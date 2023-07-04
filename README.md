@@ -12,7 +12,7 @@ I'm an enthusiast web developer and content creator building my version of the d
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nimai-kraus-sviluppo-web/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimai kraus" height="30" width="40" /></a>
-<a href="https://www.instagram.com/?utm_source=pwa_homescreen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pergliamici_mimo" height="30" width="40" /></a>
+<a href="https://www.instagram.com/pergliamicimimo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pergliamici_mimo" height="30" width="40" /></a>
 </p>
    
 <h3 align="left">🧰 Languages and Tools:</h3>
