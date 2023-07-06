@@ -1,3 +1,5 @@
+<div align=center>
+   
 <h1>🏄‍♂️ Nimai Kraus </h1>
 **`Digital Craftsman (Developer/Designer/Creator)`**
 <br />
@@ -8,7 +10,6 @@ I'm an enthusiast web developer and content creator building my version of the d
 - 💬 Ask me about **React, Next & frontend development**
 
 - 📫 How to reach me **nimai.kraus@gmail.com**
-<div align=center>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
