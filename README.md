@@ -1,7 +1,7 @@
 <div align=center>
    
 <h1>🏄‍♂️ Nimai Kraus </h1>
-**Digital Craftsman (Developer/Designer/Creator)**
+**`Digital Craftsman (Developer/Designer/Creator)`**
 <br />
 I'm an enthusiast web developer and content creator building my version of the digital world one step at a time. All coding projects are built from the scratch, from planning and designing all the way to solving real-life problems with code, all the way to finalizing the content with artistic touches.
 
@@ -34,3 +34,10 @@ I started my coding journey as a simple passionate, with the desire to learn eve
 But that soon got overshadowed from my passion for web development and my creative disposition, and the possibility to immediatly see something change😉, guided me to go deep in frontend development...
 And here I am tryng to continously improve my skills and always learn something new to become, in primis, a beter developer and a better person too.
 I really love coding because it always puts you in front of new challenges to solve and you have to be very smart and always, or almost, find the better solution for your case...
+
+
+- 👨‍💻 All of my projects are available at [https://nimai-personal-portfolio.netlify.app/](https://nimai-personal-portfolio.netlify.app/)
+
+- 💬 Ask me about **React, Next & frontend development**
+
+- 📫 How to reach me **nimai.kraus@gmail.com**
