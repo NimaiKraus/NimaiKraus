@@ -8,6 +8,7 @@ I'm an enthusiast web developer and content creator building my version of the d
 - 💬 Ask me about **React, Next & frontend development**
 
 - 📫 How to reach me **nimai.kraus@gmail.com**
+<div align=center>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,7 +16,6 @@ I'm an enthusiast web developer and content creator building my version of the d
 <a href="https://www.instagram.com/pergliamicimimo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pergliamici_mimo" height="30" width="40" /></a>
 </p>
 
-<div align=center>
 <h2>My skills</h2>
    
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
