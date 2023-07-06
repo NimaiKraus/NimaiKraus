@@ -1,4 +1,4 @@
-<img src="https://static01.nyt.com/images/2020/01/01/business/01Techfix-print/01Techfix-print-jumbo.gif?quality=75&auto=webp" />
+<img src="https://blog.zoho.com/sites/zblogs/images/cliq/new-converted-2019-08.gif" />
 
 <div align=center>
    
