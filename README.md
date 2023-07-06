@@ -5,12 +5,6 @@
 <br />
 I'm an enthusiast web developer and content creator building my version of the digital world one step at a time. All coding projects are built from the scratch, from planning and designing all the way to solving real-life problems with code, all the way to finalizing the content with artistic touches.
 
-<h3>Connect with me:</h3>
-<p>
-<a href="https://www.linkedin.com/in/nimai-kraus-sviluppo-web/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimai kraus" height="30" width="40" /></a>
-<a href="https://www.instagram.com/pergliamicimimo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pergliamici_mimo" height="30" width="40" /></a>
-</p>
-
 <h2>My skills</h2>
    
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,6 +22,12 @@ I'm an enthusiast web developer and content creator building my version of the d
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+<h3>Connect with me:</h3>
+<p>
+<a href="https://www.linkedin.com/in/nimai-kraus-sviluppo-web/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimai kraus" height="30" width="40" /></a>
+<a href="https://www.instagram.com/pergliamicimimo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pergliamici_mimo" height="30" width="40" /></a>
+</p>
    
 <h3 style="margin-bottom: 10px">👨‍💻 Nimai's Coding Journey</h3>
 I started my coding journey as a simple passionate, with the desire to learn everything I could about this programming world: code, unix, theory.
