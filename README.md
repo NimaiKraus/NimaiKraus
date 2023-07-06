@@ -5,11 +5,11 @@
 <br />
 I'm an enthusiast web developer and content creator building my version of the digital world one step at a time. All coding projects are built from the scratch, from planning and designing all the way to solving real-life problems with code, all the way to finalizing the content with artistic touches.
 
-👨‍💻 All of my projects are available at [https://nimai-personal-portfolio.netlify.app/](https://nimai-personal-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://nimai-personal-portfolio.netlify.app/](https://nimai-personal-portfolio.netlify.app/)
 
-💬 Ask me about **React, Next & frontend development**
+- 💬 Ask me about **React, Next & frontend development**
 
-📫 How to reach me **nimai.kraus@gmail.com**
+- 📫 How to reach me **nimai.kraus@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
