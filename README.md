@@ -23,13 +23,13 @@ I'm an enthusiast web developer and content creator building my version of the d
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-<h3>Connect with me:</h3>
+<h2>Connect with me:</h2>
 <p>
 <a href="https://www.linkedin.com/in/nimai-kraus-sviluppo-web/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimai kraus" height="30" width="40" /></a>
 <a href="https://www.instagram.com/pergliamicimimo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pergliamici_mimo" height="30" width="40" /></a>
 </p>
    
-<h3 style="margin-bottom: 10px">👨‍💻 Nimai's Coding Journey</h3>
+<h2 style="margin-bottom: 10px">👨‍💻 Nimai's Coding Journey</h2>
 I started my coding journey as a simple passionate, with the desire to learn everything I could about this programming world: code, unix, theory.
 But that soon got overshadowed from my passion for web development and my creative disposition, and the possibility to immediatly see something change😉, guided me to go deep in frontend development...
 And here I am tryng to continously improve my skills and always learn something new to become, in primis, a beter developer and a better person too.
