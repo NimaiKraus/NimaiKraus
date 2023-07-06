@@ -1,4 +1,4 @@
-<img src="https://rare-gallery.com/375431-4k-wallpaper.html" />
+<img src="https://static01.nyt.com/images/2020/01/01/business/01Techfix-print/01Techfix-print-jumbo.gif?quality=75&auto=webp" />
 
 <div align=center>
    
